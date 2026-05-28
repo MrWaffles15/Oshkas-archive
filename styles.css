@@ -95,3 +95,7 @@ a.email {
   justify-content: center;
   align-items: center;        
 }
+#iMage {
+	width: 100%;
+	height: auto;
+}
