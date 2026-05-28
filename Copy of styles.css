@@ -1,0 +1,86 @@
+body{
+  padding: 25px;
+  background-color: blue;
+}
+.title {
+	color: #5C6AC4;
+}
+#mainstuff1 {
+  background-color: #ff0000;
+  width: 72%;
+  position: absolute;
+  height: 93%;
+  top: 7%;
+  left: 28%;
+  overflow: auto;
+}
+#mainstuff2 {
+  background-color: #ff0000;
+  width: 72%;
+  position: absolute;
+  height: 93%;
+  top: 7%;
+  left: 28%;
+  overflow: auto;
+}
+#mainstuff3 {
+  background-color: #ff0000;
+  width: 72%;
+  position: absolute;
+  height: 93%;
+  top: 7%;
+  left: 28%;
+  overflow: auto;
+}
+#buttons {
+  background-color: #00ff00;
+  position: absolute;
+  width: 20%;
+  height: 100%;
+  top: 0px;
+  left: 0px;
+}
+#button1 {
+  position: absolute;
+  width: 24%;
+  height: 7%;
+  top: 0px;
+  left: 28%;
+}
+#button2 {
+  position: absolute;
+  width: 24%;
+  height: 7%;
+  top: 0px;
+  left: 52%;
+}
+#button3 {
+  position: absolute;
+  width: 24%;
+  height: 7%;
+  top: 0px;
+  left: 76%;
+}
+#john {
+  position: absolute;
+  width: 60%;
+  height: 80%;
+  top: 20%;
+  left:20%
+}
+a.button {
+  border: 1px outset buttonborder;
+  border-radius: 3px;
+  color: buttontext;
+  background-color: buttonface;
+  text-decoration: none;
+  position: relative;
+  width: 90%;
+  height: 30px;
+  top: 5px;
+  margin-bottom: 5px;
+  left: 5%;
+  display: flex;
+  justify-content: center;
+  align-items: center;        
+}
